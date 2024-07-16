@@ -7,8 +7,8 @@ This is a React Native application built using Expo. It includes authentication 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/DileshMadushan/react-native-expo-firebase-auth.git
+    cd react-native-expo-firebase-auth
     ```
 
 2. **Install dependencies:**
