@@ -19,7 +19,6 @@ This is a React Native application built using Expo. It includes authentication 
     npm install @react-navigation/stack
     npm install firebase
     expo install @react-native-async-storage/async-storage
-   
     ```
 
 3. **Set up Firebase:**
@@ -34,18 +33,3 @@ To start the application, run:
 
 ```bash
 npx expo start
-
-
-
-This will start the Expo development server. You can then use the Expo Go app on your mobile device to scan the QR code and load the app.
-
-
-Screens
-Login: The screen for user login.
-Sign Up: The screen for user registration.
-Welcome: The welcome screen for logged-in users.
-Profile: The screen displaying user profile information.
-Splash: The splash screen shown while the app is loading.
-
-Contributing
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or new features.
